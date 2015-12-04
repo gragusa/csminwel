@@ -1,0 +1,10 @@
+Package: csminwel
+Type: Package
+Title: csminwel
+Version: 1.0
+Date: 2010-01-30
+Author: Chris Sims
+Description: This code is based on a routine originally copyrighted by Chris Sims. See http://sims.princeton.edu/yftp/optimize/
+License: MIT
+LazyLoad: yes
+ByteCompile: yes
